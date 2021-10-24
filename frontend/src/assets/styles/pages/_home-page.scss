@@ -1,0 +1,9 @@
+.home-page {
+  gap: 40px;
+  max-height: 100vh;
+  padding: 10px 0;
+  > * {
+    background-color: #fcfcfc;
+    padding: 20px;
+  }
+}

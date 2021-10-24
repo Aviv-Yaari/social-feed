@@ -1,0 +1,8 @@
+.comment-list {
+  gap: 20px;
+  overflow: auto;
+  .comment-details {
+    overflow: initial;
+    border: 1px solid $clr-2;
+  }
+}
